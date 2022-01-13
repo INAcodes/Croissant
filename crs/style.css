@@ -20,7 +20,7 @@ strong {
 p {
     font-family:Arial, Helvetica, sans-serif;
 }
-img {
+.photo {
     padding-bottom: 30px;
     width: 900px;
     display: block;
